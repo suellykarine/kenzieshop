@@ -1,0 +1,11 @@
+.divTeste {
+    display: flex;
+    width: 35%;
+}
+
+@media (min-width: 480px) {
+    .divTeste {
+        display: flex;
+        width: 69%;
+    }
+}
