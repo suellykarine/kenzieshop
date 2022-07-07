@@ -2,5 +2,5 @@
 
 Projeto em ReactJs
 
-Link do projeto: https://react-entrega-s3-kenzieshop-suellykarine.vercel.app/
+Link do projeto: https://react-entrega-s3-kenzieshop-suellykarine.vercel.app/ 
 
