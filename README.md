@@ -1,4 +1,4 @@
-# Desenvolvimento de um modelo de e-commerce
+# Desenvolvimento de um modelo de e-commerce <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="40" height="40"/>
 
 Projeto em ReactJs
 
